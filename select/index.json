@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "他人の関係",
+  "base_artist": "一青窈",
+  "createdAt": "2026-04-01T21:35:44.418334Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "他人の関係",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/01_他人の関係_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "他人の関係",
+      "artist": "金井　克子",
+      "has_synced": true,
+      "path": "select/02_他人の関係_金井_克子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "他人の関係",
+      "artist": "金井克子",
+      "has_synced": true,
+      "path": "select/03_他人の関係_金井克子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "他人の関係 [第48話使用曲]",
+      "artist": "金井克子",
+      "has_synced": true,
+      "path": "select/04_他人の関係_[第48話使用曲]_金井克子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "他人の関係",
+      "artist": "一青 窈",
+      "has_synced": false,
+      "path": "select/pl_01_他人の関係_一青_窈.txt"
+    }
+  ]
+}
